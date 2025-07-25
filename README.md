@@ -36,9 +36,13 @@ You can monitor Real-time BLE packet traffic via:
 ![Transmitter GUI](Transmitter_GUI.png)
 <div align="center"><b>Transmitter GUI</b></div>
 
+## TI CC2540 Packet Sniffer Capture example
 
-![Sniffer Capture](TI_sniffer_connection.png)
-<div align="center"><b>Sniffer Capture</b></div>
+![Sniffer Capture Android](TI_sniffer_connection_Android.png)
+<div align="center"><b>Sniffer Capture Android with strict time</b></div>
+
+![Sniffer Capture iPhone](TI_sniffer_connection_iPhone.png)
+<div align="center"><b>Sniffer Capture iPhone with loose time</b></div>
 
 
 ## Current stage
