@@ -37,6 +37,10 @@ You can monitor Real-time BLE packet traffic via:
 <div align="center"><b>Transmitter GUI</b></div>
 
 
+![Sniffer Capture](TI_sniffer_connection.png)
+<div align="center"><b>Sniffer Capture</b></div>
+
+
 ## Current stage
 
 The core interface with SDR code in `src/link_layer_detector/rx_c` and `src/link_layer_detector/tx_python`, which includes all control targets for the GUI, is part of a larger project currently under review at another conference. The code will **surely** be made open source once we receive feedback.
