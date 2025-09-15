@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# Keep the .gitignore itself
+!.gitignore
+
+# Keep top-level files
+!README.md
+!Decoder_GUI.png
+!TI_sniffer_connection_Android.png
+!TI_sniffer_connection_iPhone.png
+!Transmitter_GUI.png
+
+# Keep specific nested files
+!src/link_layer_detector/rx_c/README.md
+!src/link_layer_detector/tx_python/Modules/README.md
